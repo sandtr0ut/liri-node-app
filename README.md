@@ -1,5 +1,5 @@
 ## liri-node-app
-#### Homework #7<br>
+<br>
 
 #### LIRIbot searches Spotify for songs, Bands in Town for concerts, and OMDB for movies.<br>
 
