@@ -28,6 +28,34 @@ var Search = function() {
       });
     });
   };
+  
+  this.findSong = function(song) {
+    var spotify = new Spotify(keys.spotify);
+     
+    spotify
+      .search({ 
+        type: 'track', 
+        query: song
+      }).then(function(data) {
+        
+        let track = data.tracks.items[0];
+        
+        var songData = [
+          "Artist: " + track.album.artists[0].name,
+          "Title: " + track.name,
+          "Preview URL: " + track.external_urls.spotify,
+          "Album: " + track.album.name
+        ].join("\n\n");
+        
+        fs.appendFile("log.txt", songData + divider, function(err) {
+          if (err) throw err;
+          console.log(songData);
+        });
+      })
+      .catch(function(err) {
+        console.log(err);
+      });
+  };
 
 }
 

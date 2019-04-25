@@ -13,19 +13,30 @@ var divider = "\n---------------------------------------------------\n\n";
 
 switch(command) {
   
-  // if user enters "concert-this" command
+  // if user enters "concert-this" command...
   case "concert-this":
   
-  //confirm their request
-  console.log("'concert-this' command accessed\nuser query= " + userQuery + divider + "Please stand by" + divider);
-  
-  // create a new object, via the Search constructor, findEvent method in search.js with userQuery (user's artist-search).  This will access & read Bands-in-Town API w/ Axios
-  search.findEvent(userQuery);
-    break;
+    //confirm their request
+    console.log("'concert-this' command accessed\nuser query= " + userQuery + "\nPlease stand by" + divider + "Results:  ");
     
-  case "spotify-this-song":
-    runSong();
+    // utilize findEvent method from search.js
+    // userQuery is the artist being searched
+    // will search/read Bands-in-Town API w/ Axios
+    search.findEvent(userQuery);
     break;
+  
+  // if user enters "spotify-this-song" command...
+  case "spotify-this-song":
+    
+    //confirm their request
+    console.log("'spotify-this-song' command accessed\nuserQuery= " + userQuery + divider + "\nPlease stand by" + divider + "Results:  ");
+    
+    // utilize findEvent method from search.js
+    // userQuery is the artist being searched
+    // will search/read Bands-in-Town API w/ Axios
+    search.findSong(userQuery);
+    break;
+      
   case "movie-this":
     runMovie();
     break;
@@ -36,21 +47,9 @@ switch(command) {
     runPrompt(); // ask what they want to do
 }
 
-
-
-// if user enters "concert-this" command,
-// access & read Bands-in-Town API w/ Axios
-
-
-// if user enters "spotify-this-song" command,
-// access & read node-spotify-api package
-function runSong() {
-  console.log("runSpotify command accessed\nuserQuery= " + userQuery + divider);
-}
-
 // if user enters "movie-this" command,
 // access & read OMDB API w/ Axios
-function runSong() {
+function runMovie() {
   console.log("runOMBD command accessed\nuserQuery= " + userQuery + divider);
 }
 
@@ -58,7 +57,7 @@ function runSong() {
 // use fs node package to read random.txt and,
 // based on its contents, call one of LIRIbot's commands
 function runRandom() {
-  console.log("runFS command accessed\nuserQuery= " + userQuery + divider);
+  console.log("runFS command accessed\nfunctionality= TBD " + divider);
 }
 
 // if user runs the app without a command, LIRIbot will
