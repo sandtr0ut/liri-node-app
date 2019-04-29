@@ -16,11 +16,11 @@
 
 It is Wednesday.  You're tapping-out a few tens of thousands of lines of code, doing your part for society, making The Man richer, while you try to save a few shekels for retirement and an Oculus Rift.  "What's that dang song in my head?  I love that tune.  It's from that one movie..." ... ... "Got it!  I'll search it up!"
 
-Now, a lesser man or woman might punt, order the club sandwich, and Google it.  Hahaha but not you.  **You've got LIRIbot!**
+Now, a lesser man or woman might punt, order the club sandwich, and Google it.  Hahaaa but not you.  **You've got LIRIbot!**
 
 Armed with LIRI, a more elegant tool from a more civilized age, you "movie-this" your way to confirming that you have the right movie.  Bingo. Now the soundtrack is easily identifiable and you confirm the name of the tune you keep hearing.  "But, who is the artist?"
 
-BOOM.  LIRIbot has your back again.  Hit her with a "spotify-this-song" and you get back the artist's name, the album, AND a preview link to the song from Spotify!  ...and, as if that weren't enough, the dev's here at LIRIbot have more in store for you.
+boom. No, ...BOOM!  LIRIbot has your back again.  Hit her with a "spotify-this-song" and you get back the artist's name, the album, AND a preview link to the song from Spotify!  ...and, as if that weren't enough, the dev's here at LIRIbot have more in store for you.
 
 We want you to really get loose.  Try "concert-this <artist/band name here>" to pull up all the upcoming tour dates! Now get on the horn to your friends and make some plans!  
 
