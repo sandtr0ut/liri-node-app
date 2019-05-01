@@ -31,29 +31,80 @@ Also, don't forget to grab your log file for a text record of your session.
 <br>  
 
 ### Supported Commands  
-COMMAND | PARAMETER(S) | SAMPLE
-------- | ------------ | ------
-concert-this | Arist or Band Name | `node liri.js concert-this <artist/band name here>`
-spotify-this-song | Song Name | `node liri.js spotify-this-song '<song name here>'`
-movie-this | Movie Name | `node liri.js movie-this '<movie name here>'`
-do-what-it-says | n/a | `node liri.js do-what-it-says`
+COMMAND | PARAMETER(S) | DEPENDENCIES | API(S)
+------- | ------------ | ------------ | ------
+concert-this | Arist or Band Name | Axios & Moment NPM Pkgs | Bands in Town, Moment
+spotify-this-song | Song Name | Node Spotify API & dotenv NPM Pkgs | Spotify
+movie-this | Movie Name | Axios NPM Pkg | OMDB
+do-what-it-says | n/a | Node File System | Varies according to random.txt contents
 <br>
 
-### Bands-in-Town API <br>
-Example: Searching for concert dates for the band, Lettuce, using Liri's 'concert-this' command
-<br>
+### Examples
+
+#### Bands-in-Town API <br>
+
+##### Command: <br>
+
+`node liri.js concert-this <artist/band name here>` <br>
+
+##### Input: <br>
+
+(searching for concert dates for the band, Lettuce, using Liri's 'concert-this' command) <br>
 
 ![concert-this](https://user-images.githubusercontent.com/47204349/57005598-febef900-6b8d-11e9-89f9-6aae8d5039c3.JPG)
 
 <br>
 
-Results of 'concert-this' search
-
-<br>
+##### Result: <br>
 
 ![concert-this_results](https://user-images.githubusercontent.com/47204349/57005683-dc79ab00-6b8e-11e9-80a2-019779674070.JPG)
 
 <br>
+
+#### Node-Spotify-API <br>
+
+##### Command: <br>
+
+`node liri.js spotify-this-song '<song name here>'`
+
+##### Input: <br>
+
+(searching for song, artist, album, and link to a song preview of "Hey Hey, What Can I Do?" using Liri's 'spotify-this-song' command) <br>
+
+![spotify-this-song](https://user-images.githubusercontent.com/47204349/57048514-1d260280-6c29-11e9-9091-5e0703a3fd5a.JPG)
+
+<br>
+
+##### Result: <br>
+
+![spotify-this-song_results](https://user-images.githubusercontent.com/47204349/57048531-2c0cb500-6c29-11e9-99c3-5e2c6ee25317.JPG)
+
+<br>
+
+#### OMDB API <br>
+
+##### Command: <br>
+
+`node liri.js movie-this '<movie name here>'`
+
+##### Input: <br>
+
+(searching for concert dates for the band, Lettuce, using Liri's 'concert-this' command) <br>
+
+![concert-this](https://user-images.githubusercontent.com/47204349/57005598-febef900-6b8d-11e9-89f9-6aae8d5039c3.JPG)
+
+<br>
+
+##### Result: <br>
+
+![concert-this_results](https://user-images.githubusercontent.com/47204349/57005683-dc79ab00-6b8e-11e9-80a2-019779674070.JPG)
+
+<br>
+
+`node liri.js concert-this <artist/band name here>`
+`node liri.js spotify-this-song '<song name here>'`
+`node liri.js movie-this '<movie name here>'`
+`node liri.js do-what-it-says`
 
 
 ### Development Tools Used
