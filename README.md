@@ -31,12 +31,95 @@ Also, don't forget to grab your log file for a text record of your session.
 <br>  
 
 ### Supported Commands  
-COMMAND | PARAMETER(S) | SAMPLE
-------- | ------------ | ------
-concert-this | Arist or Band Name | `node liri.js concert-this <artist/band name here>`
-spotify-this-song | Song Name | `node liri.js spotify-this-song '<song name here>'`
-movie-this | Movie Name | `node liri.js movie-this '<movie name here>'`
-do-what-it-says | n/a | `node liri.js do-what-it-says`
+COMMAND | PARAMETER(S) | DEPENDENCIES | API(S)
+------- | ------------ | ------------ | ------
+concert-this | Arist or Band Name | Axios & Moment NPM Pkgs | Bands in Town, Moment
+spotify-this-song | Song Name | Node Spotify API & dotenv NPM Pkgs | Spotify
+movie-this | Movie Name | Axios NPM Pkg | OMDB
+do-what-it-says | n/a | Node File System | Varies according to random.txt contents
+<br>
+
+### Examples
+
+#### Bands-in-Town API <br>
+
+##### Command: <br>
+
+`node liri.js concert-this <artist/band name here>` <br>
+
+##### Input: <br>
+
+(searching for concert dates for the band, Lettuce, using Liri's 'concert-this' command) <br>
+
+![concert-this](https://user-images.githubusercontent.com/47204349/57005598-febef900-6b8d-11e9-89f9-6aae8d5039c3.JPG)
+
+<br>
+
+##### Result: <br>
+
+![concert-this_results](https://user-images.githubusercontent.com/47204349/57005683-dc79ab00-6b8e-11e9-80a2-019779674070.JPG)
+
+<br>
+
+#### Node-Spotify-API <br>
+
+##### Command: <br>
+
+`node liri.js spotify-this-song '<song name here>'`
+
+##### Input: <br>
+
+(searching for song, artist, album, and link to a song preview of "Hey Hey, What Can I Do?" using Liri's 'spotify-this-song' command) <br>
+
+![spotify-this-song](https://user-images.githubusercontent.com/47204349/57048514-1d260280-6c29-11e9-9091-5e0703a3fd5a.JPG)
+
+<br>
+
+##### Result: <br>
+
+![spotify-this-song_results](https://user-images.githubusercontent.com/47204349/57048531-2c0cb500-6c29-11e9-99c3-5e2c6ee25317.JPG)
+
+<br>
+
+#### OMDB API <br>
+
+##### Command: <br>
+
+`node liri.js movie-this '<movie name here>'`
+
+##### Input: <br>
+
+(searching OMDB API for the film, BASEketball, requesting film title, release date, IMDB rating, Rotten Tomatoes rating, production location, language, plot summary, and cast) <br>
+
+![movie-this](https://user-images.githubusercontent.com/47204349/57048672-cd940680-6c29-11e9-8313-a5de0724c44f.JPG) <br>
+
+<br>
+
+##### Result: <br>
+
+![movie-this_results](https://user-images.githubusercontent.com/47204349/57048714-f61c0080-6c29-11e9-9640-5e7b20fd9605.JPG)
+
+<br>
+
+
+#### Surprise Me <br>
+
+##### Command: <br>
+
+`node liri.js do-what-it-says`
+
+##### Input: <br>
+
+(this command will access random.txt and run whatever command is listed)
+
+![do-what-it-says](https://user-images.githubusercontent.com/47204349/57048854-9114da80-6c2a-11e9-97b5-7f25a73b5e48.JPG) <br>
+
+<br>
+
+##### Result: <br>
+
+![do-what-it-says_results](https://user-images.githubusercontent.com/47204349/57048873-aee23f80-6c2a-11e9-8465-d4de29ae3f8f.JPG)
+
 <br>
 
 ### Development Tools Used
