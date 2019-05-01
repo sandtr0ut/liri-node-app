@@ -87,7 +87,7 @@ var Search = function () {
 
 
   this.findMovie = function (movieName) {
-    if (movieName === undefined) {
+    if (!movieName) {
       movieName = "Mr Nobody";
     }
     var URL = "http://www.omdbapi.com/?t=" + movieName + "&y=&plot=short&apikey=trilogy";

@@ -1,313 +1,5 @@
 ---------------------------------------------------
 
-Venue:  [object Object]
-
-City:  undefined
-
-Date:  2019-04-27T19:00:20
----------------------------------------------------
-
-Venue:  Trondossa Music & Arts Festival
-
-City:  North Charleston
-
-Date:  2019-04-27T19:00:20
----------------------------------------------------
-
-Artist: U2
-
-Title: Sunday Bloody Sunday - Remastered 2008
-
-Preview URL: https://open.spotify.com/track/6C4LXC9UFH1IKiHYOp0BiJ
-
-Album: War (Remastered)
----------------------------------------------------
-
-Venue:  House Of Blues
-
-City:  Anaheim
-
-Date:  2019-04-24T18:00:00
----------------------------------------------------
-
-Artist: Various Artists
-
-Title: Pass The Peas
-
-Preview URL: https://open.spotify.com/track/62rSpnxXl2lXDevp1z583x
-
-Album: James Brown's Funky People
----------------------------------------------------
-
-Title:  Blade Runner
-
-Released:  1982
-
-IMDB Rating:  8.2/10
-
-Rotten Tomatoes:  90%
-
-Production Location:  USA, Hong Kong
-
-Language:  English, German, Cantonese, Japanese, Hungarian, Arabic
-
-Plot Summary:  A blade runner must pursue and terminate four replicants who stole a ship in space, and have returned to Earth to find their creator.
-
-Cast:  Harrison Ford, Rutger Hauer, Sean Young, Edward James Olmos
----------------------------------------------------
-
-Title:  Festival Express
-
-Released:  2003
-
-IMDB Rating:  7.6/10
-
-Rotten Tomatoes:  96%
-
-Production Location:  UK, Netherlands
-
-Language:  English
-
-Plot Summary:  The filmed account of a large Canadian rock festival train tour boasting major acts like Janis Joplin, The Grateful Dead and The Band.
-
-Cast:  Rick Danko, Levon Helm, Garth Hudson, Richard Manuel
----------------------------------------------------
-
-Title:  Festival Express
-
-Released:  2003
-
-IMDB Rating:  7.6/10
-
-Rotten Tomatoes:  96%
-
-Production Location:  UK, Netherlands
-
-Language:  English
-
-Plot Summary:  The filmed account of a large Canadian rock festival train tour boasting major acts like Janis Joplin, The Grateful Dead and The Band.
-
-Cast:  Rick Danko, Levon Helm, Garth Hudson, Richard Manuel
----------------------------------------------------
-
-Venue:  Trondossa Music & Arts Festival
-
-City:  North Charleston
-
-Date:  2019-04-27T19:00:20
----------------------------------------------------
-
-Venue:  Trondossa Music & Arts Festival
-
-City:  North Charleston
-
-Date:  2019-04-27T19:00:20
----------------------------------------------------
-
-Artist: Sir Mix-A-Lot
-
-Title: Baby Got Back
-
-Preview URL: https://open.spotify.com/track/1SAkL1mYNJlaqnBQxVZrRl
-
-Album: Mack Daddy
----------------------------------------------------
-
-Artist: Sir Mix-A-Lot
-
-Title: Baby Got Back
-
-Preview URL: https://open.spotify.com/track/1SAkL1mYNJlaqnBQxVZrRl
-
-Album: Mack Daddy
----------------------------------------------------
-
-Venue:  Trondossa Music & Arts Festival
-
-City:  North Charleston
-
-Date:  2019-04-27T19:00:20
----------------------------------------------------
-
-Venue:  Trondossa Music & Arts Festival
-
-City:  North Charleston
-
-Date:  2019-04-27T19:00:20
----------------------------------------------------
-
-Artist: Backstreet Boys
-
-Title: I Want It That Way
-
-Preview URL: https://open.spotify.com/track/6e40mgJiCid5HRAGrbpGA6
-
-Album: The Hits--Chapter One
----------------------------------------------------
-
-Artist: Backstreet Boys
-
-Title: I Want It That Way
-
-Preview URL: https://open.spotify.com/track/6e40mgJiCid5HRAGrbpGA6
-
-Album: The Hits--Chapter One
----------------------------------------------------
-
-Artist: Backstreet Boys
-
-Title: I Want It That Way
-
-Preview URL: https://open.spotify.com/track/6e40mgJiCid5HRAGrbpGA6
-
-Album: The Hits--Chapter One
----------------------------------------------------
-
-Artist: Backstreet Boys
-
-Title: I Want It That Way
-
-Preview URL: https://open.spotify.com/track/6e40mgJiCid5HRAGrbpGA6
-
-Album: The Hits--Chapter One
----------------------------------------------------
-
-Artist: Backstreet Boys
-
-Title: I Want It That Way
-
-Preview URL: https://open.spotify.com/track/6e40mgJiCid5HRAGrbpGA6
-
-Album: The Hits--Chapter One
----------------------------------------------------
-
-Venue:  The St. Augustine Amphitheatre
-
-City:  St. Augustine
-
-Date:  08/04/2019
----------------------------------------------------
-
-Venue:  Estadio Nacional
-
-City:  Santiago
-
-Date:  10/15/2019
----------------------------------------------------
-
-Artist: The Score
-
-Title: Revolution
-
-Preview URL: https://open.spotify.com/track/7Fv8Qp3tTSbSS2VjryUF7L
-
-Album: ATLAS
----------------------------------------------------
-
-[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
----------------------------------------------------
-
-[{"Artist: ":"Sir Mix-A-Lot","Title: ":"Baby Got Back","Preview URL: ":"https://open.spotify.com/track/1SAkL1mYNJlaqnBQxVZrRl","Album: ":"Mack Daddy"},{"Artist: ":"Joe Nichols","Title: ":"Baby Got Back (feat. Darren Knight)","Preview URL: ":"https://open.spotify.com/track/0HlrfZBnJMIwmntTsXnqcl","Album: ":"Never Gets Old"},{"Artist: ":"ZZ Top","Title: ":"Just Got Back From Baby's","Preview URL: ":"https://open.spotify.com/track/7AX7qVqFljHOJC3FIQ8a6t","Album: ":"ZZ Top's First Album"},{"Artist: ":"Jonathan Coulton","Title: ":"Baby Got Back","Preview URL: ":"https://open.spotify.com/track/20lGHKUzu3OH2D23VRpi44","Album: ":"JoCo Looks Back"},{"Artist: ":"Richard Cheese","Title: ":"Baby Got Back","Preview URL: ":"https://open.spotify.com/track/4oIQ6fbchoURJlv6UJJVkk","Album: ":"Tuxicity"},{"Artist: ":"Various Artists","Title: ":"Baby Got Back","Preview URL: ":"https://open.spotify.com/track/1YltlaYVW8exihHi3HyGlF","Album: ":"Rock Vs. Rap"},{"Artist: ":"Vanilla Ice","Title: ":"Baby Got Back","Preview URL: ":"https://open.spotify.com/track/62xvmyoq6mGq48otRvjU7a","Album: ":"Vanilla Ice Is Back! - Hip Hop Classics"},{"Artist: ":"Jonathan Coulton","Title: ":"Baby Got Back","Preview URL: ":"https://open.spotify.com/track/7dUMK0nYcV3jVGHlDuLM9w","Album: ":"Thing a Week One"},{"Artist: ":"Glee Cast","Title: ":"Baby Got Back (Glee Cast Version)","Preview URL: ":"https://open.spotify.com/track/4OWIslJW3d0IZoTk9Soci3","Album: ":"Baby Got Back (Glee Cast Version)"},{"Artist: ":"Richard Cheese","Title: ":"Baby Got Back","Preview URL: ":"https://open.spotify.com/track/0YoqqQNvF4xPFAZCFHvUCN","Album: ":"The Sunny Side of the Moon: The Best of Richard Cheese"},{"Artist: ":"ZZ Top","Title: ":"Just Got Back from Baby's","Preview URL: ":"https://open.spotify.com/track/0YNvr5sZ5vT6tcRilLiLqQ","Album: ":"The Very Baddest"},{"Artist: ":"Old School Players","Title: ":"Baby Got Back","Preview URL: ":"https://open.spotify.com/track/734xNeYp89EggDohaXAHy9","Album: ":"30 Essential Old School Hits"},{"Artist: ":"Various Artists","Title: ":"Baby Got Back","Preview URL: ":"https://open.spotify.com/track/0B0EWRPZQqoegKo3D5bMLC","Album: ":"Jackass The Movie (The Official Soundtrack)"},{"Artist: ":"Various Artists","Title: ":"Got to Get Back to My Baby","Preview URL: ":"https://open.spotify.com/track/3FSxi5AbflWQFOcAhsnYnr","Album: ":"Daptone Super Soul Revue"},{"Artist: ":"Jonathan Coulton","Title: ":"Baby Got Back","Preview URL: ":"https://open.spotify.com/track/3aptQsWiKnRJdl1AUeFe89","Album: ":"Best. Concert. Ever."},{"Artist: ":"The Sugarman 3","Title: ":"Got To Get Back To My Baby","Preview URL: ":"https://open.spotify.com/track/0moTQ1UbCNjI8zwIzVY5bh","Album: ":"What The World Needs Now"},{"Artist: ":"Various Artists","Title: ":"Got A Get My Baby Back Home","Preview URL: ":"https://open.spotify.com/track/0zRyAo7Ix3Fz9Fr2MVFltH","Album: ":"Soul Jazz Records Presents New Orleans Funk 3"},{"Artist: ":"Flipmode Squad","Title: ":"I Got Your Back","Preview URL: ":"https://open.spotify.com/track/0bI4CHx3HULY5qdLMSmk6h","Album: ":"The Imperial"},{"Artist: ":"DJ LILMAN","Title: ":"Baby Got Back (feat. 40 Cal)","Preview URL: ":"https://open.spotify.com/track/1cT7gaBAnfN2iKRIFs5ONo","Album: ":"The Best of DJ Lilman"},{"Artist: ":"James Carr","Title: ":"Coming Back To Me Baby","Preview URL: ":"https://open.spotify.com/track/3ER4nRvcLar6AOaTXwGQKT","Album: ":"You Got My Mind Messed Up"}]
----------------------------------------------------
-
-[{"Artist: ":"Sir Mix-A-Lot","Title: ":"Baby Got Back","Preview URL: ":"https://open.spotify.com/track/1SAkL1mYNJlaqnBQxVZrRl","Album: ":"Mack Daddy"},{"Artist: ":"Joe Nichols","Title: ":"Baby Got Back (feat. Darren Knight)","Preview URL: ":"https://open.spotify.com/track/0HlrfZBnJMIwmntTsXnqcl","Album: ":"Never Gets Old"},{"Artist: ":"ZZ Top","Title: ":"Just Got Back From Baby's","Preview URL: ":"https://open.spotify.com/track/7AX7qVqFljHOJC3FIQ8a6t","Album: ":"ZZ Top's First Album"},{"Artist: ":"Jonathan Coulton","Title: ":"Baby Got Back","Preview URL: ":"https://open.spotify.com/track/20lGHKUzu3OH2D23VRpi44","Album: ":"JoCo Looks Back"},{"Artist: ":"Richard Cheese","Title: ":"Baby Got Back","Preview URL: ":"https://open.spotify.com/track/4oIQ6fbchoURJlv6UJJVkk","Album: ":"Tuxicity"},{"Artist: ":"Various Artists","Title: ":"Baby Got Back","Preview URL: ":"https://open.spotify.com/track/1YltlaYVW8exihHi3HyGlF","Album: ":"Rock Vs. Rap"},{"Artist: ":"Vanilla Ice","Title: ":"Baby Got Back","Preview URL: ":"https://open.spotify.com/track/62xvmyoq6mGq48otRvjU7a","Album: ":"Vanilla Ice Is Back! - Hip Hop Classics"},{"Artist: ":"Jonathan Coulton","Title: ":"Baby Got Back","Preview URL: ":"https://open.spotify.com/track/7dUMK0nYcV3jVGHlDuLM9w","Album: ":"Thing a Week One"},{"Artist: ":"Glee Cast","Title: ":"Baby Got Back (Glee Cast Version)","Preview URL: ":"https://open.spotify.com/track/4OWIslJW3d0IZoTk9Soci3","Album: ":"Baby Got Back (Glee Cast Version)"},{"Artist: ":"Richard Cheese","Title: ":"Baby Got Back","Preview URL: ":"https://open.spotify.com/track/0YoqqQNvF4xPFAZCFHvUCN","Album: ":"The Sunny Side of the Moon: The Best of Richard Cheese"},{"Artist: ":"ZZ Top","Title: ":"Just Got Back from Baby's","Preview URL: ":"https://open.spotify.com/track/0YNvr5sZ5vT6tcRilLiLqQ","Album: ":"The Very Baddest"},{"Artist: ":"Old School Players","Title: ":"Baby Got Back","Preview URL: ":"https://open.spotify.com/track/734xNeYp89EggDohaXAHy9","Album: ":"30 Essential Old School Hits"},{"Artist: ":"Various Artists","Title: ":"Baby Got Back","Preview URL: ":"https://open.spotify.com/track/0B0EWRPZQqoegKo3D5bMLC","Album: ":"Jackass The Movie (The Official Soundtrack)"},{"Artist: ":"Various Artists","Title: ":"Got to Get Back to My Baby","Preview URL: ":"https://open.spotify.com/track/3FSxi5AbflWQFOcAhsnYnr","Album: ":"Daptone Super Soul Revue"},{"Artist: ":"Jonathan Coulton","Title: ":"Baby Got Back","Preview URL: ":"https://open.spotify.com/track/3aptQsWiKnRJdl1AUeFe89","Album: ":"Best. Concert. Ever."},{"Artist: ":"The Sugarman 3","Title: ":"Got To Get Back To My Baby","Preview URL: ":"https://open.spotify.com/track/0moTQ1UbCNjI8zwIzVY5bh","Album: ":"What The World Needs Now"},{"Artist: ":"Various Artists","Title: ":"Got A Get My Baby Back Home","Preview URL: ":"https://open.spotify.com/track/0zRyAo7Ix3Fz9Fr2MVFltH","Album: ":"Soul Jazz Records Presents New Orleans Funk 3"},{"Artist: ":"Flipmode Squad","Title: ":"I Got Your Back","Preview URL: ":"https://open.spotify.com/track/0bI4CHx3HULY5qdLMSmk6h","Album: ":"The Imperial"},{"Artist: ":"DJ LILMAN","Title: ":"Baby Got Back (feat. 40 Cal)","Preview URL: ":"https://open.spotify.com/track/1cT7gaBAnfN2iKRIFs5ONo","Album: ":"The Best of DJ Lilman"},{"Artist: ":"James Carr","Title: ":"Coming Back To Me Baby","Preview URL: ":"https://open.spotify.com/track/3ER4nRvcLar6AOaTXwGQKT","Album: ":"You Got My Mind Messed Up"}]
----------------------------------------------------
-
-Venue:  Formula 1 US Grand Prix
-
-City:  Austin
-
-Date:  11/01/2019
----------------------------------------------------
-
-Upcoming concerts forimagine dragons:,Venue:  Napa
-City:  BottleRock
-Date:  05/24/2019
----------------------------------------------------
-
-,Venue:  Florence
-City:  Visarno Arena
-Date:  06/02/2019
----------------------------------------------------
-
-,Venue:  Canton
-City:  Pro Football Hall of Fame
-Date:  08/04/2019
----------------------------------------------------
-
-,Venue:  Austin
-City:  Formula 1 US Grand Prix
-Date:  11/01/2019
----------------------------------------------------
-
-
----------------------------------------------------
-
-Upcoming concerts for imagine dragons:,Venue:  Napa
-,City:  BottleRock
-,Date:  05/24/2019
----------------------------------------------------
-
-,Venue:  Florence
-,City:  Visarno Arena
-,Date:  06/02/2019
----------------------------------------------------
-
-,Venue:  Canton
-,City:  Pro Football Hall of Fame
-,Date:  08/04/2019
----------------------------------------------------
-
-,Venue:  Austin
-,City:  Formula 1 US Grand Prix
-,Date:  11/01/2019
----------------------------------------------------
-
-
----------------------------------------------------
-
-Upcoming concerts for imagine dragons:,City:  Napa
-,Venue:  BottleRock
-,Date:  05/24/2019,
----------------------------------------------------
-
-,City:  Florence
-,Venue:  Visarno Arena
-,Date:  06/02/2019,
----------------------------------------------------
-
-,City:  Canton
-,Venue:  Pro Football Hall of Fame
-,Date:  08/04/2019,
----------------------------------------------------
-
-,City:  Austin
-,Venue:  Formula 1 US Grand Prix
-,Date:  11/01/2019,
----------------------------------------------------
-
-
----------------------------------------------------
-
-Upcoming concerts for imagine dragons:,City:  Napa/\n/,Venue:  BottleRock
-,Date:  05/24/2019,
----------------------------------------------------
-
-,City:  Florence/\n/,Venue:  Visarno Arena
-,Date:  06/02/2019,
----------------------------------------------------
-
-,City:  Canton/\n/,Venue:  Pro Football Hall of Fame
-,Date:  08/04/2019,
----------------------------------------------------
-
-,City:  Austin/\n/,Venue:  Formula 1 US Grand Prix
-,Date:  11/01/2019,
----------------------------------------------------
-
-
----------------------------------------------------
-
 Upcoming concerts for imagine dragons:,City:  Napa,Venue:  BottleRock,Date:  05/24/2019,City:  Florence,Venue:  Visarno Arena,Date:  06/02/2019,City:  Canton,Venue:  Pro Football Hall of Fame,Date:  08/04/2019,City:  Austin,Venue:  Formula 1 US Grand Prix,Date:  11/01/2019
 ---------------------------------------------------
 
@@ -352,5 +44,88 @@ Language:  English, German, Hebrew, Spanish
 Plot Summary:  Jeff "The Dude" Lebowski, mistaken for a millionaire of the same name, seeks restitution for his ruined rug and enlists his bowling buddies to help get it.
 
 Cast:  Jeff Bridges, John Goodman, Julianne Moore, Steve Buscemi
+---------------------------------------------------
+
+Upcoming concerts for funk: ,City: Vaud, Venue: Le Romandie, Date: 05/11/2019,City: София, Venue: club MUSIC JAM, Date: 05/16/2019,City: Brighton, Venue: Brighton Beach & Various Brighton Venues, Date: 05/17/2019,City: Brighton, Venue: Brighton Beach & Various Brighton Venues, Date: 05/18/2019,City: Brighton, Venue: Brighton Beach & Various Brighton Venues, Date: 05/19/2019,City: Barcelona, Venue: Sala Luz de Gas, Date: 09/14/2019
+---------------------------------------------------
+
+Upcoming concerts for lettuce: ,City: New Orleans, Venue: RAGE!FEST, Date: 05/02/2019,City: Ozark, Venue: Mulberry Mountain Lodging & Events, Date: 05/31/2019,City: Kalamazoo, Venue: Bell's Eccentric Cafe, Date: 06/01/2019,City: Morrison, Venue: Red Rocks Amphitheatre, Date: 06/15/2019,City: Rochester, Venue: Martin Luther King Jr Memorial Park at Manhattan Square, Date: 07/11/2019,City: Snowshoe, Venue: 4848 Festival, Date: 07/12/2019,City: Garrettsville, Venue: Funk N Flow 2019, Date: 07/13/2019,City: Louisville, Venue: Forecastle Festival, Date: 07/14/2019,City: Plymouth, Venue: The Flying Monkey, Date: 07/16/2019,City: Westerly, Venue: Paddy's Beach Club, Date: 07/19/2019,City: Jay, Venue: Jeezum Crow Festival, Date: 07/20/2019,City: Nantucket, Venue: The Chicken Box, Date: 07/23/2019,City: Nantucket, Venue: The Chicken Box, Date: 07/24/2019,City: Beverly, Venue: The Cabot, Date: 07/25/2019,City: Portland, Venue: State Theatre, Date: 07/26/2019,City: Telluride, Venue: Telluride Town Park, Date: 08/09/2019,City: Telluride, Venue: Telluride Jazz Festival, Date: 08/11/2019,City: Asheville, Venue: Salvage Station, Date: 09/12/2019,City: Pelham, Venue: The Caverns, Date: 09/13/2019,City: Clemmons, Venue: Craft Beverage Festival, Date: 09/14/2019,City: Wilmington, Venue: Greenfield Lake Amphitheater, Date: 09/15/2019,City: Westbury, Venue: The Space at Westbury, Date: 09/21/2019,City: Fayetteville, Venue: George's Majestic Lounge, Date: 11/06/2019,City: Kansas City, Venue: The Truman, Date: 11/07/2019,City: Minneapolis, Venue: First Avenue, Date: 11/08/2019,City: Chicago, Venue: The Riviera Theatre, Date: 11/09/2019,City: Milwaukee, Venue: Turner Hall Ballroom, Date: 11/10/2019,City: Columbus, Venue: The Bluestone Event Venue, Date: 11/14/2019,City: Raleigh, Venue: The Ritz, Date: 11/16/2019,City: Charlotte, Venue: Neighborhood Theatre, Date: 11/17/2019,City: Utica, Venue: The Stanley Theatre, Date: 11/20/2019,City: Washington, Venue: The Anthem, Date: 11/22/2019,City: Rocky Mount, Venue: Harvester Performance Center, Date: 11/23/2019
+---------------------------------------------------
+
+[{"Artist: ":"Led Zeppelin","Title: ":"Hey Hey What Can I Do - 2012 Remaster","Preview URL: ":"https://open.spotify.com/track/16VhHtoaOjTU4AJBNSBNQ1","Album: ":"Coda (Deluxe Edition)"},{"Artist: ":"Hootie & The Blowfish","Title: ":"Hey Hey What Can I Do","Preview URL: ":"https://open.spotify.com/track/1vinZlvGPXn0EjFr1dh8lu","Album: ":"Scattered, Smothered and Covered"},{"Artist: ":"Led Zeppelin","Title: ":"Hey Hey What Can I Do - Remaster","Preview URL: ":"https://open.spotify.com/track/2AqsxgflV63VWMfDAUUJCw","Album: ":"Led Zeppelin x Led Zeppelin"},{"Artist: ":"Swan Montgomery","Title: ":"Hey Hey What Can I Do","Preview URL: ":"https://open.spotify.com/track/35wbvb0rK3b2YdJngQOeTv","Album: ":"Swan Montgomery Covers the Greatest Hits of Led Zeppelin"},{"Artist: ":"Jimmy Page","Title: ":"Hey, Hey, What Can I Do","Preview URL: ":"https://open.spotify.com/track/0ylE7gAbnYkkzt8LhyZdoT","Album: ":"Live at the Greek"},{"Artist: ":"Umphrey's McGee","Title: ":"Hey, Hey, What Can I Do (06.28.15 Peoria, Illinois) [Live]","Preview URL: ":"https://open.spotify.com/track/0xOIFJfx5Hy3rbiopb6BXd","Album: ":"Hall of Fame: Class of 2015"},{"Artist: ":"Bonerama","Title: ":"Hey Hey What Can I Do","Preview URL: ":"https://open.spotify.com/track/694DZsBcjp3Kb0IK71BeIK","Album: ":"Bonerama Plays Zeppelin"},{"Artist: ":"Various Artists","Title: ":"Hey Hey What Can I Do","Preview URL: ":"https://open.spotify.com/track/5txrR6YsVTX9yq82dYaPeg","Album: ":"From the Land of Ice and Snow: The Songs of Led Zeppelin"},{"Artist: ":"Dread Zeppelin","Title: ":"Hey, Hey (What Can I Do?)","Preview URL: ":"https://open.spotify.com/track/0HeAIaWAgQFfRGUx6K8owA","Album: ":"Re-Led-Ed"},{"Artist: ":"Brett Fuentes","Title: ":"Hey Hey What Can I Do (live)","Preview URL: ":"https://open.spotify.com/track/7lkjjElqSrrCENFsTB74um","Album: ":"Live in NYC 9-12-09"},{"Artist: ":"Various Artists","Title: ":"Hey Hey (What Can I Do)","Preview URL: ":"https://open.spotify.com/track/1V6ICPAD2hPW9k78OIub3J","Album: ":"All Blues'd Up: Songs of Led Zeppelin"},{"Artist: ":"Dread Zeppelin","Title: ":"Hey, Hey What Can I Do","Preview URL: ":"https://open.spotify.com/track/0UEB3M57csOOEvpdTpgLe4","Album: ":"Bootleg"},{"Artist: ":"Dread Zeppelin","Title: ":"Hey, Hey (What Can I Do?)","Preview URL: ":"https://open.spotify.com/track/5AhbFQMxYxN4CAVIbLndLJ","Album: ":"Re-Led-Ed"},{"Artist: ":"The Good Time Travelers","Title: ":"Hey, Hey What Can I Do","Preview URL: ":"https://open.spotify.com/track/1HLrUlPcLZ7zQ8CuxCyylg","Album: ":"Mountain Song"},{"Artist: ":"Various Artists","Title: ":"Hey, Hey, What Can I Do","Preview URL: ":"https://open.spotify.com/track/2WYkbVKNUHe0GBAeTZchFC","Album: ":"Consistent Reduction VII - Minimalistic from the Core"},{"Artist: ":"Dillon Bunn","Title: ":"Hey Hey What Can I Do","Preview URL: ":"https://open.spotify.com/track/4nYbQu0IUhREsR9mOvaIgh","Album: ":"Hey Hey What Can I Do"},{"Artist: ":"Various Artists","Title: ":"Hey Hey (What Can I Do)","Preview URL: ":"https://open.spotify.com/track/5djV9ijyrTnGMecpl0HTaV","Album: ":"Whole Lotta Blues: Songs Of Led Zeppelin"},{"Artist: ":"Daniel Stefanik","Title: ":"Hey, Hey, What Can I Do","Preview URL: ":"https://open.spotify.com/track/537ISprEIKtJlIZCH4hlkH","Album: ":"The Madcap Laughs EP"},{"Artist: ":"The Fifth House","Title: ":"Hey Hey What Can I Do?","Preview URL: ":"https://open.spotify.com/track/5ypSXiwYd9LtfeWp9OE7SI","Album: ":"Sinking Reality"},{"Artist: ":"Various Artists","Title: ":"Hey, Hey, What Can I Do","Preview URL: ":"https://open.spotify.com/track/6uqu2oVsCldMbv5A11gSE7","Album: ":"The Deep Side of Berlin, Vol. 3"}]
+---------------------------------------------------
+
+Title:  BASEketball
+
+Released:  1998
+
+IMDB Rating:  6.6/10
+
+Rotten Tomatoes:  42%
+
+Production Location:  USA
+
+Language:  English
+
+Plot Summary:  Two childhood friends are pro athletes of a national sport called BASEketball, a hybrid of baseball and basketball, and must deal with a greedy businessman scheming against their team.
+
+Cast:  Trey Parker, Matt Stone, Dian Bachar, Yasmine Bleeth
+---------------------------------------------------
+
+Title:  BASEketball
+
+Released:  1998
+
+IMDB Rating:  6.6/10
+
+Rotten Tomatoes:  42%
+
+Production Location:  USA
+
+Language:  English
+
+Plot Summary:  Two childhood friends are pro athletes of a national sport called BASEketball, a hybrid of baseball and basketball, and must deal with a greedy businessman scheming against their team.
+
+Cast:  Trey Parker, Matt Stone, Dian Bachar, Yasmine Bleeth
+---------------------------------------------------
+
+Title:  The Big Lebowski
+
+Released:  1998
+
+IMDB Rating:  8.1/10
+
+Rotten Tomatoes:  82%
+
+Production Location:  USA, UK
+
+Language:  English, German, Hebrew, Spanish
+
+Plot Summary:  Jeff "The Dude" Lebowski, mistaken for a millionaire of the same name, seeks restitution for his ruined rug and enlists his bowling buddies to help get it.
+
+Cast:  Jeff Bridges, John Goodman, Julianne Moore, Steve Buscemi
+---------------------------------------------------
+
+[{"Artist: ":"Backstreet Boys","Title: ":"I Want It That Way","Preview URL: ":"https://open.spotify.com/track/6e40mgJiCid5HRAGrbpGA6","Album: ":"The Hits--Chapter One"},{"Artist: ":"Backstreet Boys","Title: ":"I Want It That Way","Preview URL: ":"https://open.spotify.com/track/47BBI51FKFwOMlIiX6m8ya","Album: ":"Millennium"},{"Artist: ":"Anthem Lights","Title: ":"I Want It That Way","Preview URL: ":"https://open.spotify.com/track/3Ww6kEWxLh4Ub4WPJ9hMtA","Album: ":"Covers Part IV"},{"Artist: ":"Jess and Gabriel","Title: ":"I Want It That Way","Preview URL: ":"https://open.spotify.com/track/52FgeDoHydoWZbFGgxwCdH","Album: ":"Under the Covers, Vol. 3"},{"Artist: ":"Mick Jensen","Title: ":"I Want It That Way","Preview URL: ":"https://open.spotify.com/track/0ympGdYdVlZ8zo6irdjMvd","Album: ":"I Want It That Way"},{"Artist: ":"Tyler and Mark","Title: ":"I Want It That Way","Preview URL: ":"https://open.spotify.com/track/7k52T0b1v9ktm2gJwlO5yy","Album: ":"Beautiful Dreams"},{"Artist: ":"\"Weird Al\" Yankovic","Title: ":"Ebay (Parody of \"I Want It That Way\" by the Backstreet Boys)","Preview URL: ":"https://open.spotify.com/track/4vHb50VkxDzHYwLiHfWczK","Album: ":"Poodle Hat"},{"Artist: ":"Various Artists","Title: ":"I Want It That Way","Preview URL: ":"https://open.spotify.com/track/0F5f29urvisi4TiwJOQZWN","Album: ":"Punk Goes Pop"},{"Artist: ":"Various Artists","Title: ":"I Want It That Way","Preview URL: ":"https://open.spotify.com/track/1zCiqxhampG4dcC7HEqPu5","Album: ":"90 Sweet 90s Hits!"},{"Artist: ":"Steel Panther","Title: ":"I Want It That Way","Preview URL: ":"https://open.spotify.com/track/0448cNUvZGCAlUpIPO5kdY","Album: ":"I Want It That Way"},{"Artist: ":"NKOTBSB","Title: ":"I Want It That Way","Preview URL: ":"https://open.spotify.com/track/2KMwtsWwL5QDtSpm814tju","Album: ":"NKOTBSB"},{"Artist: ":"Glee Cast","Title: ":"Bye Bye Bye / I Want It That Way (Glee Cast Version)","Preview URL: ":"https://open.spotify.com/track/3t7m7AzV2ntuI9fIT6KREP","Album: ":"Bye Bye Bye / I Want It That Way (Glee Cast Version)"},{"Artist: ":"Boyce Avenue","Title: ":"I Want It That Way","Preview URL: ":"https://open.spotify.com/track/16COzZ7jCVn3O8b8ZgviOx","Album: ":"Cover Sessions, Vol. 2"},{"Artist: ":"Manuel Costa","Title: ":"I Want It That Way","Preview URL: ":"https://open.spotify.com/track/4Sp4RxkWukxqJykl0ySNQi","Album: ":"I Want It That Way"},{"Artist: ":"Scary Pockets","Title: ":"I Want It That Way","Preview URL: ":"https://open.spotify.com/track/4IWQXV01Lp0wsXCXo09EBr","Album: ":"Nu Funk"},{"Artist: ":"Scott Bradlee's Postmodern Jukebox","Title: ":"I Want It That Way","Preview URL: ":"https://open.spotify.com/track/1Le3uYU5NU9cXXtYeSWnEM","Album: ":"Selfies on Kodachrome"},{"Artist: ":"Yshop","Title: ":"I Want It That Way","Preview URL: ":"https://open.spotify.com/track/0sRt44NXdLVqYeD2TAm1A5","Album: ":"I Want It That Way"},{"Artist: ":"Kidz Bop Kids","Title: ":"I Want It That Way","Preview URL: ":"https://open.spotify.com/track/1n1JZwSscsN0ESVPNv94cx","Album: ":"Kidz Bop"},{"Artist: ":"\"Weird Al\" Yankovic","Title: ":"Ebay (Parody of \"I Want It That Way\" by the Backstreet Boys)","Preview URL: ":"https://open.spotify.com/track/1vaico2C72imYowF4Kv04V","Album: ":"The Essential \"Weird Al\" Yankovic"},{"Artist: ":"Various Artists","Title: ":"I Want It That Way","Preview URL: ":"https://open.spotify.com/track/75W4IDdKhHvRQZpaDx9YPg","Album: ":"NOW That's What I Call 90s Pop"}]
+---------------------------------------------------
+
+[{"Artist: ":"Backstreet Boys","Title: ":"I Want It That Way","Preview URL: ":"https://open.spotify.com/track/6e40mgJiCid5HRAGrbpGA6","Album: ":"The Hits--Chapter One"},{"Artist: ":"Backstreet Boys","Title: ":"I Want It That Way","Preview URL: ":"https://open.spotify.com/track/47BBI51FKFwOMlIiX6m8ya","Album: ":"Millennium"},{"Artist: ":"Anthem Lights","Title: ":"I Want It That Way","Preview URL: ":"https://open.spotify.com/track/3Ww6kEWxLh4Ub4WPJ9hMtA","Album: ":"Covers Part IV"},{"Artist: ":"Jess and Gabriel","Title: ":"I Want It That Way","Preview URL: ":"https://open.spotify.com/track/52FgeDoHydoWZbFGgxwCdH","Album: ":"Under the Covers, Vol. 3"},{"Artist: ":"Mick Jensen","Title: ":"I Want It That Way","Preview URL: ":"https://open.spotify.com/track/0ympGdYdVlZ8zo6irdjMvd","Album: ":"I Want It That Way"},{"Artist: ":"Tyler and Mark","Title: ":"I Want It That Way","Preview URL: ":"https://open.spotify.com/track/7k52T0b1v9ktm2gJwlO5yy","Album: ":"Beautiful Dreams"},{"Artist: ":"\"Weird Al\" Yankovic","Title: ":"Ebay (Parody of \"I Want It That Way\" by the Backstreet Boys)","Preview URL: ":"https://open.spotify.com/track/4vHb50VkxDzHYwLiHfWczK","Album: ":"Poodle Hat"},{"Artist: ":"Various Artists","Title: ":"I Want It That Way","Preview URL: ":"https://open.spotify.com/track/0F5f29urvisi4TiwJOQZWN","Album: ":"Punk Goes Pop"},{"Artist: ":"Various Artists","Title: ":"I Want It That Way","Preview URL: ":"https://open.spotify.com/track/1zCiqxhampG4dcC7HEqPu5","Album: ":"90 Sweet 90s Hits!"},{"Artist: ":"Steel Panther","Title: ":"I Want It That Way","Preview URL: ":"https://open.spotify.com/track/0448cNUvZGCAlUpIPO5kdY","Album: ":"I Want It That Way"},{"Artist: ":"NKOTBSB","Title: ":"I Want It That Way","Preview URL: ":"https://open.spotify.com/track/2KMwtsWwL5QDtSpm814tju","Album: ":"NKOTBSB"},{"Artist: ":"Glee Cast","Title: ":"Bye Bye Bye / I Want It That Way (Glee Cast Version)","Preview URL: ":"https://open.spotify.com/track/3t7m7AzV2ntuI9fIT6KREP","Album: ":"Bye Bye Bye / I Want It That Way (Glee Cast Version)"},{"Artist: ":"Boyce Avenue","Title: ":"I Want It That Way","Preview URL: ":"https://open.spotify.com/track/16COzZ7jCVn3O8b8ZgviOx","Album: ":"Cover Sessions, Vol. 2"},{"Artist: ":"Manuel Costa","Title: ":"I Want It That Way","Preview URL: ":"https://open.spotify.com/track/4Sp4RxkWukxqJykl0ySNQi","Album: ":"I Want It That Way"},{"Artist: ":"Scary Pockets","Title: ":"I Want It That Way","Preview URL: ":"https://open.spotify.com/track/4IWQXV01Lp0wsXCXo09EBr","Album: ":"Nu Funk"},{"Artist: ":"Scott Bradlee's Postmodern Jukebox","Title: ":"I Want It That Way","Preview URL: ":"https://open.spotify.com/track/1Le3uYU5NU9cXXtYeSWnEM","Album: ":"Selfies on Kodachrome"},{"Artist: ":"Yshop","Title: ":"I Want It That Way","Preview URL: ":"https://open.spotify.com/track/0sRt44NXdLVqYeD2TAm1A5","Album: ":"I Want It That Way"},{"Artist: ":"Kidz Bop Kids","Title: ":"I Want It That Way","Preview URL: ":"https://open.spotify.com/track/1n1JZwSscsN0ESVPNv94cx","Album: ":"Kidz Bop"},{"Artist: ":"\"Weird Al\" Yankovic","Title: ":"Ebay (Parody of \"I Want It That Way\" by the Backstreet Boys)","Preview URL: ":"https://open.spotify.com/track/1vaico2C72imYowF4Kv04V","Album: ":"The Essential \"Weird Al\" Yankovic"},{"Artist: ":"Various Artists","Title: ":"I Want It That Way","Preview URL: ":"https://open.spotify.com/track/75W4IDdKhHvRQZpaDx9YPg","Album: ":"NOW That's What I Call 90s Pop"}]
+---------------------------------------------------
+
+Title:  Mr. Nobody
+
+Released:  2009
+
+IMDB Rating:  7.8/10
+
+Rotten Tomatoes:  67%
+
+Production Location:  Belgium, Germany, Canada, France, USA, UK
+
+Language:  English, Mohawk
+
+Plot Summary:  A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+
+Cast:  Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
 ---------------------------------------------------
 
