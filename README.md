@@ -89,23 +89,38 @@ do-what-it-says | n/a | Node File System | Varies according to random.txt conten
 
 ##### Input: <br>
 
-(searching for concert dates for the band, Lettuce, using Liri's 'concert-this' command) <br>
+(searching OMDB API for the film, BASEketball, requesting film title, release date, IMDB rating, Rotten Tomatoes rating, production location, language, plot summary, and cast) <br>
 
-![concert-this](https://user-images.githubusercontent.com/47204349/57005598-febef900-6b8d-11e9-89f9-6aae8d5039c3.JPG)
+![movie-this](https://user-images.githubusercontent.com/47204349/57048672-cd940680-6c29-11e9-8313-a5de0724c44f.JPG) <br>
 
 <br>
 
 ##### Result: <br>
 
-![concert-this_results](https://user-images.githubusercontent.com/47204349/57005683-dc79ab00-6b8e-11e9-80a2-019779674070.JPG)
+![movie-this_results](https://user-images.githubusercontent.com/47204349/57048714-f61c0080-6c29-11e9-9640-5e7b20fd9605.JPG)
 
 <br>
 
-`node liri.js concert-this <artist/band name here>`
-`node liri.js spotify-this-song '<song name here>'`
-`node liri.js movie-this '<movie name here>'`
+
+#### Surprise Me <br>
+
+##### Command: <br>
+
 `node liri.js do-what-it-says`
 
+##### Input: <br>
+
+(this command will access random.txt and run whatever command is listed)
+
+![do-what-it-says](https://user-images.githubusercontent.com/47204349/57048854-9114da80-6c2a-11e9-97b5-7f25a73b5e48.JPG) <br>
+
+<br>
+
+##### Result: <br>
+
+![do-what-it-says_results](https://user-images.githubusercontent.com/47204349/57048873-aee23f80-6c2a-11e9-8465-d4de29ae3f8f.JPG)
+
+<br>
 
 ### Development Tools Used
 Tool | Use
