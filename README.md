@@ -38,9 +38,23 @@ spotify-this-song | Song Name | `node liri.js spotify-this-song '<song name here
 movie-this | Movie Name | `node liri.js movie-this '<movie name here>'`
 do-what-it-says | n/a | `node liri.js do-what-it-says`
 <br>
-### Bands-in-Town API
+
+### Bands-in-Town API <br>
+Example: Searching for concert dates for the band, Lettuce, using Liri's 'concert-this' command
+<br>
 
 ![concert-this](https://user-images.githubusercontent.com/47204349/57005598-febef900-6b8d-11e9-89f9-6aae8d5039c3.JPG)
+
+<br>
+
+Results of 'concert-this' search
+
+<br>
+
+![concert-this_results](https://user-images.githubusercontent.com/47204349/57005683-dc79ab00-6b8e-11e9-80a2-019779674070.JPG)
+
+<br>
+
 
 ### Development Tools Used
 Tool | Use
