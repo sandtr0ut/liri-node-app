@@ -40,7 +40,7 @@ do-what-it-says | n/a | `node liri.js do-what-it-says`
 <br>
 ### Bands-in-Town API
 
-![concert-this command](img/concert-this.jpg)
+![concert-this](https://user-images.githubusercontent.com/47204349/57005598-febef900-6b8d-11e9-89f9-6aae8d5039c3.JPG)
 
 ### Development Tools Used
 Tool | Use
