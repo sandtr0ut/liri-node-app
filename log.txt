@@ -181,3 +181,176 @@ Preview URL: https://open.spotify.com/track/6e40mgJiCid5HRAGrbpGA6
 Album: The Hits--Chapter One
 ---------------------------------------------------
 
+Venue:  The St. Augustine Amphitheatre
+
+City:  St. Augustine
+
+Date:  08/04/2019
+---------------------------------------------------
+
+Venue:  Estadio Nacional
+
+City:  Santiago
+
+Date:  10/15/2019
+---------------------------------------------------
+
+Artist: The Score
+
+Title: Revolution
+
+Preview URL: https://open.spotify.com/track/7Fv8Qp3tTSbSS2VjryUF7L
+
+Album: ATLAS
+---------------------------------------------------
+
+[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+---------------------------------------------------
+
+[{"Artist: ":"Sir Mix-A-Lot","Title: ":"Baby Got Back","Preview URL: ":"https://open.spotify.com/track/1SAkL1mYNJlaqnBQxVZrRl","Album: ":"Mack Daddy"},{"Artist: ":"Joe Nichols","Title: ":"Baby Got Back (feat. Darren Knight)","Preview URL: ":"https://open.spotify.com/track/0HlrfZBnJMIwmntTsXnqcl","Album: ":"Never Gets Old"},{"Artist: ":"ZZ Top","Title: ":"Just Got Back From Baby's","Preview URL: ":"https://open.spotify.com/track/7AX7qVqFljHOJC3FIQ8a6t","Album: ":"ZZ Top's First Album"},{"Artist: ":"Jonathan Coulton","Title: ":"Baby Got Back","Preview URL: ":"https://open.spotify.com/track/20lGHKUzu3OH2D23VRpi44","Album: ":"JoCo Looks Back"},{"Artist: ":"Richard Cheese","Title: ":"Baby Got Back","Preview URL: ":"https://open.spotify.com/track/4oIQ6fbchoURJlv6UJJVkk","Album: ":"Tuxicity"},{"Artist: ":"Various Artists","Title: ":"Baby Got Back","Preview URL: ":"https://open.spotify.com/track/1YltlaYVW8exihHi3HyGlF","Album: ":"Rock Vs. Rap"},{"Artist: ":"Vanilla Ice","Title: ":"Baby Got Back","Preview URL: ":"https://open.spotify.com/track/62xvmyoq6mGq48otRvjU7a","Album: ":"Vanilla Ice Is Back! - Hip Hop Classics"},{"Artist: ":"Jonathan Coulton","Title: ":"Baby Got Back","Preview URL: ":"https://open.spotify.com/track/7dUMK0nYcV3jVGHlDuLM9w","Album: ":"Thing a Week One"},{"Artist: ":"Glee Cast","Title: ":"Baby Got Back (Glee Cast Version)","Preview URL: ":"https://open.spotify.com/track/4OWIslJW3d0IZoTk9Soci3","Album: ":"Baby Got Back (Glee Cast Version)"},{"Artist: ":"Richard Cheese","Title: ":"Baby Got Back","Preview URL: ":"https://open.spotify.com/track/0YoqqQNvF4xPFAZCFHvUCN","Album: ":"The Sunny Side of the Moon: The Best of Richard Cheese"},{"Artist: ":"ZZ Top","Title: ":"Just Got Back from Baby's","Preview URL: ":"https://open.spotify.com/track/0YNvr5sZ5vT6tcRilLiLqQ","Album: ":"The Very Baddest"},{"Artist: ":"Old School Players","Title: ":"Baby Got Back","Preview URL: ":"https://open.spotify.com/track/734xNeYp89EggDohaXAHy9","Album: ":"30 Essential Old School Hits"},{"Artist: ":"Various Artists","Title: ":"Baby Got Back","Preview URL: ":"https://open.spotify.com/track/0B0EWRPZQqoegKo3D5bMLC","Album: ":"Jackass The Movie (The Official Soundtrack)"},{"Artist: ":"Various Artists","Title: ":"Got to Get Back to My Baby","Preview URL: ":"https://open.spotify.com/track/3FSxi5AbflWQFOcAhsnYnr","Album: ":"Daptone Super Soul Revue"},{"Artist: ":"Jonathan Coulton","Title: ":"Baby Got Back","Preview URL: ":"https://open.spotify.com/track/3aptQsWiKnRJdl1AUeFe89","Album: ":"Best. Concert. Ever."},{"Artist: ":"The Sugarman 3","Title: ":"Got To Get Back To My Baby","Preview URL: ":"https://open.spotify.com/track/0moTQ1UbCNjI8zwIzVY5bh","Album: ":"What The World Needs Now"},{"Artist: ":"Various Artists","Title: ":"Got A Get My Baby Back Home","Preview URL: ":"https://open.spotify.com/track/0zRyAo7Ix3Fz9Fr2MVFltH","Album: ":"Soul Jazz Records Presents New Orleans Funk 3"},{"Artist: ":"Flipmode Squad","Title: ":"I Got Your Back","Preview URL: ":"https://open.spotify.com/track/0bI4CHx3HULY5qdLMSmk6h","Album: ":"The Imperial"},{"Artist: ":"DJ LILMAN","Title: ":"Baby Got Back (feat. 40 Cal)","Preview URL: ":"https://open.spotify.com/track/1cT7gaBAnfN2iKRIFs5ONo","Album: ":"The Best of DJ Lilman"},{"Artist: ":"James Carr","Title: ":"Coming Back To Me Baby","Preview URL: ":"https://open.spotify.com/track/3ER4nRvcLar6AOaTXwGQKT","Album: ":"You Got My Mind Messed Up"}]
+---------------------------------------------------
+
+[{"Artist: ":"Sir Mix-A-Lot","Title: ":"Baby Got Back","Preview URL: ":"https://open.spotify.com/track/1SAkL1mYNJlaqnBQxVZrRl","Album: ":"Mack Daddy"},{"Artist: ":"Joe Nichols","Title: ":"Baby Got Back (feat. Darren Knight)","Preview URL: ":"https://open.spotify.com/track/0HlrfZBnJMIwmntTsXnqcl","Album: ":"Never Gets Old"},{"Artist: ":"ZZ Top","Title: ":"Just Got Back From Baby's","Preview URL: ":"https://open.spotify.com/track/7AX7qVqFljHOJC3FIQ8a6t","Album: ":"ZZ Top's First Album"},{"Artist: ":"Jonathan Coulton","Title: ":"Baby Got Back","Preview URL: ":"https://open.spotify.com/track/20lGHKUzu3OH2D23VRpi44","Album: ":"JoCo Looks Back"},{"Artist: ":"Richard Cheese","Title: ":"Baby Got Back","Preview URL: ":"https://open.spotify.com/track/4oIQ6fbchoURJlv6UJJVkk","Album: ":"Tuxicity"},{"Artist: ":"Various Artists","Title: ":"Baby Got Back","Preview URL: ":"https://open.spotify.com/track/1YltlaYVW8exihHi3HyGlF","Album: ":"Rock Vs. Rap"},{"Artist: ":"Vanilla Ice","Title: ":"Baby Got Back","Preview URL: ":"https://open.spotify.com/track/62xvmyoq6mGq48otRvjU7a","Album: ":"Vanilla Ice Is Back! - Hip Hop Classics"},{"Artist: ":"Jonathan Coulton","Title: ":"Baby Got Back","Preview URL: ":"https://open.spotify.com/track/7dUMK0nYcV3jVGHlDuLM9w","Album: ":"Thing a Week One"},{"Artist: ":"Glee Cast","Title: ":"Baby Got Back (Glee Cast Version)","Preview URL: ":"https://open.spotify.com/track/4OWIslJW3d0IZoTk9Soci3","Album: ":"Baby Got Back (Glee Cast Version)"},{"Artist: ":"Richard Cheese","Title: ":"Baby Got Back","Preview URL: ":"https://open.spotify.com/track/0YoqqQNvF4xPFAZCFHvUCN","Album: ":"The Sunny Side of the Moon: The Best of Richard Cheese"},{"Artist: ":"ZZ Top","Title: ":"Just Got Back from Baby's","Preview URL: ":"https://open.spotify.com/track/0YNvr5sZ5vT6tcRilLiLqQ","Album: ":"The Very Baddest"},{"Artist: ":"Old School Players","Title: ":"Baby Got Back","Preview URL: ":"https://open.spotify.com/track/734xNeYp89EggDohaXAHy9","Album: ":"30 Essential Old School Hits"},{"Artist: ":"Various Artists","Title: ":"Baby Got Back","Preview URL: ":"https://open.spotify.com/track/0B0EWRPZQqoegKo3D5bMLC","Album: ":"Jackass The Movie (The Official Soundtrack)"},{"Artist: ":"Various Artists","Title: ":"Got to Get Back to My Baby","Preview URL: ":"https://open.spotify.com/track/3FSxi5AbflWQFOcAhsnYnr","Album: ":"Daptone Super Soul Revue"},{"Artist: ":"Jonathan Coulton","Title: ":"Baby Got Back","Preview URL: ":"https://open.spotify.com/track/3aptQsWiKnRJdl1AUeFe89","Album: ":"Best. Concert. Ever."},{"Artist: ":"The Sugarman 3","Title: ":"Got To Get Back To My Baby","Preview URL: ":"https://open.spotify.com/track/0moTQ1UbCNjI8zwIzVY5bh","Album: ":"What The World Needs Now"},{"Artist: ":"Various Artists","Title: ":"Got A Get My Baby Back Home","Preview URL: ":"https://open.spotify.com/track/0zRyAo7Ix3Fz9Fr2MVFltH","Album: ":"Soul Jazz Records Presents New Orleans Funk 3"},{"Artist: ":"Flipmode Squad","Title: ":"I Got Your Back","Preview URL: ":"https://open.spotify.com/track/0bI4CHx3HULY5qdLMSmk6h","Album: ":"The Imperial"},{"Artist: ":"DJ LILMAN","Title: ":"Baby Got Back (feat. 40 Cal)","Preview URL: ":"https://open.spotify.com/track/1cT7gaBAnfN2iKRIFs5ONo","Album: ":"The Best of DJ Lilman"},{"Artist: ":"James Carr","Title: ":"Coming Back To Me Baby","Preview URL: ":"https://open.spotify.com/track/3ER4nRvcLar6AOaTXwGQKT","Album: ":"You Got My Mind Messed Up"}]
+---------------------------------------------------
+
+Venue:  Formula 1 US Grand Prix
+
+City:  Austin
+
+Date:  11/01/2019
+---------------------------------------------------
+
+Upcoming concerts forimagine dragons:,Venue:  Napa
+City:  BottleRock
+Date:  05/24/2019
+---------------------------------------------------
+
+,Venue:  Florence
+City:  Visarno Arena
+Date:  06/02/2019
+---------------------------------------------------
+
+,Venue:  Canton
+City:  Pro Football Hall of Fame
+Date:  08/04/2019
+---------------------------------------------------
+
+,Venue:  Austin
+City:  Formula 1 US Grand Prix
+Date:  11/01/2019
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Upcoming concerts for imagine dragons:,Venue:  Napa
+,City:  BottleRock
+,Date:  05/24/2019
+---------------------------------------------------
+
+,Venue:  Florence
+,City:  Visarno Arena
+,Date:  06/02/2019
+---------------------------------------------------
+
+,Venue:  Canton
+,City:  Pro Football Hall of Fame
+,Date:  08/04/2019
+---------------------------------------------------
+
+,Venue:  Austin
+,City:  Formula 1 US Grand Prix
+,Date:  11/01/2019
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Upcoming concerts for imagine dragons:,City:  Napa
+,Venue:  BottleRock
+,Date:  05/24/2019,
+---------------------------------------------------
+
+,City:  Florence
+,Venue:  Visarno Arena
+,Date:  06/02/2019,
+---------------------------------------------------
+
+,City:  Canton
+,Venue:  Pro Football Hall of Fame
+,Date:  08/04/2019,
+---------------------------------------------------
+
+,City:  Austin
+,Venue:  Formula 1 US Grand Prix
+,Date:  11/01/2019,
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Upcoming concerts for imagine dragons:,City:  Napa/\n/,Venue:  BottleRock
+,Date:  05/24/2019,
+---------------------------------------------------
+
+,City:  Florence/\n/,Venue:  Visarno Arena
+,Date:  06/02/2019,
+---------------------------------------------------
+
+,City:  Canton/\n/,Venue:  Pro Football Hall of Fame
+,Date:  08/04/2019,
+---------------------------------------------------
+
+,City:  Austin/\n/,Venue:  Formula 1 US Grand Prix
+,Date:  11/01/2019,
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Upcoming concerts for imagine dragons:,City:  Napa,Venue:  BottleRock,Date:  05/24/2019,City:  Florence,Venue:  Visarno Arena,Date:  06/02/2019,City:  Canton,Venue:  Pro Football Hall of Fame,Date:  08/04/2019,City:  Austin,Venue:  Formula 1 US Grand Prix,Date:  11/01/2019
+---------------------------------------------------
+
+Upcoming concerts for lil pump: ,City:  Denver, Venue:  Fillmore Auditorium, Date:  05/01/2019,City:  Saint Paul, Venue:  Myth Live, Date:  05/03/2019,City:  Detroit, Venue:  The Fillmore Detroit, Date:  05/05/2019,City:  Philadelphia, Venue:  The Met Philadelphia, Date:  05/07/2019,City:  Washington, Venue:  The Anthem, Date:  05/08/2019,City:  Boston, Venue:  House Of Blues Boston, Date:  05/09/2019,City:  New York, Venue:  Terminal 5, Date:  05/10/2019,City:  Atlanta, Venue:  Coca-Cola Roxy, Date:  05/14/2019,City:  Dallas, Venue:  South Side Ballroom, Date:  05/16/2019,City:  Houston, Venue:  Revention Music Center, Date:  05/17/2019,City:  Austin, Venue:  Stubbs BBQ, Date:  05/18/2019,City:  El Paso, Venue:  El Paso County Coliseum, Date:  05/20/2019,City:  Los Angeles, Venue:  Shrine Auditorium and Expo Hall, Date:  05/22/2019,City:  Lommel, Venue:  Industriezone Balendijk, Date:  06/28/2019,City:  Quebec, Venue:  Festival d'été de Québec - scène Bell, Date:  07/12/2019,City:  Montréal, Venue:  Parc Jean-Drapeau, Date:  08/09/2019
+---------------------------------------------------
+
+Upcoming concerts for lil pump: ,City: Denver, Venue: Fillmore Auditorium, Date: 05/01/2019,City: Saint Paul, Venue: Myth Live, Date: 05/03/2019,City: Detroit, Venue: The Fillmore Detroit, Date: 05/05/2019,City: Philadelphia, Venue: The Met Philadelphia, Date: 05/07/2019,City: Washington, Venue: The Anthem, Date: 05/08/2019,City: Boston, Venue: House Of Blues Boston, Date: 05/09/2019,City: New York, Venue: Terminal 5, Date: 05/10/2019,City: Atlanta, Venue: Coca-Cola Roxy, Date: 05/14/2019,City: Dallas, Venue: South Side Ballroom, Date: 05/16/2019,City: Houston, Venue: Revention Music Center, Date: 05/17/2019,City: Austin, Venue: Stubbs BBQ, Date: 05/18/2019,City: El Paso, Venue: El Paso County Coliseum, Date: 05/20/2019,City: Los Angeles, Venue: Shrine Auditorium and Expo Hall, Date: 05/22/2019,City: Lommel, Venue: Industriezone Balendijk, Date: 06/28/2019,City: Quebec, Venue: Festival d'été de Québec - scène Bell, Date: 07/12/2019,City: Montréal, Venue: Parc Jean-Drapeau, Date: 08/09/2019
+---------------------------------------------------
+
+Title:  Big
+
+Released:  1988
+
+IMDB Rating:  7.3/10
+
+Rotten Tomatoes:  97%
+
+Production Location:  USA
+
+Language:  English
+
+Plot Summary:  After wishing to be made big, a teenage boy wakes the next morning to find himself mysteriously in the body of an adult.
+
+Cast:  Tom Hanks, Elizabeth Perkins, Robert Loggia, John Heard
+---------------------------------------------------
+
+[{"Artist: ":"Backstreet Boys","Title: ":"I Want It That Way","Preview URL: ":"https://open.spotify.com/track/6e40mgJiCid5HRAGrbpGA6","Album: ":"The Hits--Chapter One"},{"Artist: ":"Backstreet Boys","Title: ":"I Want It That Way","Preview URL: ":"https://open.spotify.com/track/47BBI51FKFwOMlIiX6m8ya","Album: ":"Millennium"},{"Artist: ":"Anthem Lights","Title: ":"I Want It That Way","Preview URL: ":"https://open.spotify.com/track/3Ww6kEWxLh4Ub4WPJ9hMtA","Album: ":"Covers Part IV"},{"Artist: ":"Jess and Gabriel","Title: ":"I Want It That Way","Preview URL: ":"https://open.spotify.com/track/52FgeDoHydoWZbFGgxwCdH","Album: ":"Under the Covers, Vol. 3"},{"Artist: ":"Mick Jensen","Title: ":"I Want It That Way","Preview URL: ":"https://open.spotify.com/track/0ympGdYdVlZ8zo6irdjMvd","Album: ":"I Want It That Way"},{"Artist: ":"Tyler and Mark","Title: ":"I Want It That Way","Preview URL: ":"https://open.spotify.com/track/7k52T0b1v9ktm2gJwlO5yy","Album: ":"Beautiful Dreams"},{"Artist: ":"\"Weird Al\" Yankovic","Title: ":"Ebay (Parody of \"I Want It That Way\" by the Backstreet Boys)","Preview URL: ":"https://open.spotify.com/track/4vHb50VkxDzHYwLiHfWczK","Album: ":"Poodle Hat"},{"Artist: ":"Various Artists","Title: ":"I Want It That Way","Preview URL: ":"https://open.spotify.com/track/0F5f29urvisi4TiwJOQZWN","Album: ":"Punk Goes Pop"},{"Artist: ":"Various Artists","Title: ":"I Want It That Way","Preview URL: ":"https://open.spotify.com/track/1zCiqxhampG4dcC7HEqPu5","Album: ":"90 Sweet 90s Hits!"},{"Artist: ":"Steel Panther","Title: ":"I Want It That Way","Preview URL: ":"https://open.spotify.com/track/0448cNUvZGCAlUpIPO5kdY","Album: ":"I Want It That Way"},{"Artist: ":"NKOTBSB","Title: ":"I Want It That Way","Preview URL: ":"https://open.spotify.com/track/2KMwtsWwL5QDtSpm814tju","Album: ":"NKOTBSB"},{"Artist: ":"Glee Cast","Title: ":"Bye Bye Bye / I Want It That Way (Glee Cast Version)","Preview URL: ":"https://open.spotify.com/track/3t7m7AzV2ntuI9fIT6KREP","Album: ":"Bye Bye Bye / I Want It That Way (Glee Cast Version)"},{"Artist: ":"Boyce Avenue","Title: ":"I Want It That Way","Preview URL: ":"https://open.spotify.com/track/16COzZ7jCVn3O8b8ZgviOx","Album: ":"Cover Sessions, Vol. 2"},{"Artist: ":"Manuel Costa","Title: ":"I Want It That Way","Preview URL: ":"https://open.spotify.com/track/4Sp4RxkWukxqJykl0ySNQi","Album: ":"I Want It That Way"},{"Artist: ":"Scary Pockets","Title: ":"I Want It That Way","Preview URL: ":"https://open.spotify.com/track/4IWQXV01Lp0wsXCXo09EBr","Album: ":"Nu Funk"},{"Artist: ":"Scott Bradlee's Postmodern Jukebox","Title: ":"I Want It That Way","Preview URL: ":"https://open.spotify.com/track/1Le3uYU5NU9cXXtYeSWnEM","Album: ":"Selfies on Kodachrome"},{"Artist: ":"Yshop","Title: ":"I Want It That Way","Preview URL: ":"https://open.spotify.com/track/0sRt44NXdLVqYeD2TAm1A5","Album: ":"I Want It That Way"},{"Artist: ":"Kidz Bop Kids","Title: ":"I Want It That Way","Preview URL: ":"https://open.spotify.com/track/1n1JZwSscsN0ESVPNv94cx","Album: ":"Kidz Bop"},{"Artist: ":"\"Weird Al\" Yankovic","Title: ":"Ebay (Parody of \"I Want It That Way\" by the Backstreet Boys)","Preview URL: ":"https://open.spotify.com/track/1vaico2C72imYowF4Kv04V","Album: ":"The Essential \"Weird Al\" Yankovic"},{"Artist: ":"Various Artists","Title: ":"I Want It That Way","Preview URL: ":"https://open.spotify.com/track/75W4IDdKhHvRQZpaDx9YPg","Album: ":"NOW That's What I Call 90s Pop"}]
+---------------------------------------------------
+
+Title:  The Big Lebowski
+
+Released:  1998
+
+IMDB Rating:  8.1/10
+
+Rotten Tomatoes:  82%
+
+Production Location:  USA, UK
+
+Language:  English, German, Hebrew, Spanish
+
+Plot Summary:  Jeff "The Dude" Lebowski, mistaken for a millionaire of the same name, seeks restitution for his ruined rug and enlists his bowling buddies to help get it.
+
+Cast:  Jeff Bridges, John Goodman, Julianne Moore, Steve Buscemi
+---------------------------------------------------
+

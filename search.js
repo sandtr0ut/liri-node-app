@@ -5,6 +5,7 @@ var keys = require("./keys.js");
 var axios = require("axios");
 var fs = require("fs");
 var Spotify = require('node-spotify-api');
+var moment = require("moment");
 
 
 var Search = function () {
@@ -17,18 +18,32 @@ var Search = function () {
 
     axios.get(URL).then(function (response) {
 
-      var jsonData = response.data[0];
+      var jsonData = response.data;
+      
+      if (!jsonData.length) {
+        console.log("No results found for " + artist);
+        return;
+      }
+      
+      var eventData = [];
+      
+      eventData.push("Upcoming concerts for " +  artist + ": ");
+      
+      for (var i = 0; i < jsonData.length; i++) {
+        var event = jsonData[i];
 
-      var eventData = [
-        "Venue:  " + jsonData.venue.name,
-        "City:  " + jsonData.venue.city,
-        "Date:  " + jsonData.datetime
-      ].join("\n\n");
+      eventData.push(
+        "City: " + event.venue.city + ", " +
+        "Venue: " + event.venue.name + ", " +
+        "Date: " + moment(event.datetime).format("MM/DD/YYYY")
+      );
+    }
 
-      fs.appendFile("log.txt", eventData + divider, function (err) {
+    fs.appendFile("log.txt", eventData + divider, function (err) {
         if (err) throw err;
-        console.log(eventData);
+        
       });
+      console.log(eventData.join("\n"));
     });
   };
 
@@ -46,20 +61,25 @@ var Search = function () {
         query: song
       }).then(function (data) {
 
-        let track = data.tracks.items[0];
-
-        var songData = [
-          "Artist: " + track.album.artists[0].name,
-          "Title: " + track.name,
-          "Preview URL: " + track.external_urls.spotify,
-          "Album: " + track.album.name
-        ].join("\n\n");
-
-        fs.appendFile("log.txt", songData + divider, function (err) {
-          if (err) throw err;
-          console.log(songData);
+        var track = data.tracks.items;
+        var songData = [];
+        for (let i = 0; i < track.length; i++) {
+          
+        songData.push({
+          "Artist: ": track[i].album.artists[0].name,
+          "Title: ": track[i].name,
+          "Preview URL: ": track[i].external_urls.spotify,
+          "Album: ": track[i].album.name
         });
-      })
+        // }).join("\n\n");
+      }
+      var songLog = JSON.stringify(songData);
+      fs.appendFile("log.txt", songLog + divider, function (err) {
+        if (err) throw err;
+        
+      });
+      console.log(songData);
+    })
       .catch(function (err) {
         console.log(err);
       });
@@ -67,7 +87,9 @@ var Search = function () {
 
 
   this.findMovie = function (movieName) {
-
+    if (movieName === undefined) {
+      movieName = "Mr Nobody";
+    }
     var URL = "http://www.omdbapi.com/?t=" + movieName + "&y=&plot=short&apikey=trilogy";
 
     axios.get(URL).then(function (response) {
