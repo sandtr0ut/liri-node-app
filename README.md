@@ -38,6 +38,9 @@ spotify-this-song | Song Name | `node liri.js spotify-this-song '<song name here
 movie-this | Movie Name | `node liri.js movie-this '<movie name here>'`
 do-what-it-says | n/a | `node liri.js do-what-it-says`
 <br>
+### Bands-in-Town API
+
+![concert-this command](img/concert-this.jpg)
 
 ### Development Tools Used
 Tool | Use
