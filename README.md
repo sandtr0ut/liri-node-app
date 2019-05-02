@@ -24,7 +24,7 @@ boom. No, ...BOOM!  LIRIbot has your back again.  Hit her with a "spotify-this-s
 
 We want you to really get loose.  Try "concert-this <artist/band name here>" to pull up all the upcoming tour dates! Now get on the horn to your friends and make some plans!  
 
-Also, don't forget to grab your log file for a text record of your session.
+Also, don't forget to check your `log.txt` file for a text record of your session.
 
 **your welcome.**
 
@@ -81,6 +81,12 @@ do-what-it-says | n/a | Node File System | Varies according to random.txt conten
 
 <br>
 
+##### Result if Song Parameter is Missing: <br>
+
+![song-missing](https://user-images.githubusercontent.com/47204349/57050674-b60d4b80-6c32-11e9-9fad-8597aa79f4f2.JPG)
+
+<br>
+
 #### OMDB API <br>
 
 ##### Command: <br>
@@ -98,6 +104,12 @@ do-what-it-says | n/a | Node File System | Varies according to random.txt conten
 ##### Result: <br>
 
 ![movie-this_results](https://user-images.githubusercontent.com/47204349/57048714-f61c0080-6c29-11e9-9640-5e7b20fd9605.JPG)
+
+<br>
+
+##### Result if Movie Parameter is Missing:  <br>
+
+![movie-missing](https://user-images.githubusercontent.com/47204349/57050629-7fcfcc00-6c32-11e9-9fb4-a67a1cc6983c.JPG)
 
 <br>
 
@@ -119,6 +131,13 @@ do-what-it-says | n/a | Node File System | Varies according to random.txt conten
 ##### Result: <br>
 
 ![do-what-it-says_results](https://user-images.githubusercontent.com/47204349/57048873-aee23f80-6c2a-11e9-8465-d4de29ae3f8f.JPG)
+
+<br>
+
+#### Woops! Forgot to Include a Command <br>
+`node liri.js` <br>
+
+My LiriBot likes to keep me on my toes and tends to bust my chops if and when I slip up (like when I forget to include a command argument, even though the instructions clearly state that one is required).  Sometimes Liri is helpful.  Other times she can be a bit of a smart-ass.  Hopefully, you won't have to find out which is that case for you!
 
 <br>
 
